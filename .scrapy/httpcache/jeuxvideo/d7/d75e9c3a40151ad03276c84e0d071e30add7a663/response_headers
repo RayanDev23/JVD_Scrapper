@@ -1,0 +1,21 @@
+Date: Fri, 15 Mar 2024 14:37:25 GMT
+Content-Type: text/html; charset=UTF-8
+Access-Control-Allow-Origin: https://www.jeuxvideo.com
+Access-Control-Allow-Headers: Origin, Content-Type, Accept
+Surrogate-Control: content="ESI/1.0"
+Expires: Fri, 15 Mar 2024 14:37:25 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Vary: Origin
+Age: 0
+X-Cache: MISS
+Cache-Control: max-age=60, public, max-age=0, no-transform
+X-Jv-Cache-Mode: Miss
+X-Conn: False
+X-Jv-Cache-Name: proxy12
+Accept-Ranges: bytes
+X-Jv-Lb-Name: lb5
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 864d3dc738510772-MRS
+Alt-Svc: h3=":443"; ma=86400

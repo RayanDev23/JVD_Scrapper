@@ -1,0 +1,21 @@
+Content-Length: 97897
+Date: Fri, 15 Mar 2024 14:37:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors *.jeuxvideo.com
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Vary: Origin
+X-Varnish: 657164116 655129621
+Age: 128
+Via: 1.1 varnish (Varnish/5.0)
+X-Cache: HIT
+Cache-Control: , no-transform
+X-Jv-Cache-Name: proxy3
+X-Jv-Cache-Mode: Grace
+Accept-Ranges: bytes
+X-Jv-Lb-Name: lb5
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 864d3d6eca610772-MRS
+Alt-Svc: h3=":443"; ma=86400

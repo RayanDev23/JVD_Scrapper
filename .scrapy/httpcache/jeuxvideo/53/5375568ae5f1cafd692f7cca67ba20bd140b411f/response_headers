@@ -1,0 +1,19 @@
+Date: Fri, 15 Mar 2024 14:37:09 GMT
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Mon, 19 Feb 2024 08:53:08 GMT
+Accept-Ranges: bytes
+Expires: Fri, 15 Mar 2024 14:37:09 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Vary: Origin
+Age: 0
+X-Cache: MISS
+Cache-Control: max-age=0, no-transform
+X-Conn: False
+X-Jv-Cache-Name: proxy11
+X-Jv-Lb-Name: lb5
+Set-Cookie: visitor_country=FR; Max-Age=31536000; Domain=www.jeuxvideo.com; Path=/
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 864d3d671d510772-MRS
+Alt-Svc: h3=":443"; ma=86400
